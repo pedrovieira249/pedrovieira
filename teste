@@ -1,1 +1,2 @@
 É apenas um teste.
+<?php echo "Olá, Mundo"; ?>
