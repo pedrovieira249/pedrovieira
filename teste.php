@@ -9,6 +9,6 @@
     <body>
         <header class="main-header"><?php echo "Olá, Mundo"; ?></header>   
         <main class="main-content">Conteúdo Principal do site</main> 
-        <footer class="main-footer"></footer>
+        <footer class="main-footer">Teste Branch</footer>
     </body>
 </html>
